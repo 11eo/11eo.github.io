@@ -6,6 +6,8 @@ with
 two trailing spaces
 
 ### h3 header with [a link](https://google.com) to <http://google.com>
+### image, just like link , except ! in beginning 
+![a cat image](https://placeimg.com/400/300/any)
 
 
 
