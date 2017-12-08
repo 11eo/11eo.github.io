@@ -1,3 +1,10 @@
+
+---
+layout: post
+title: 52 Weeks of Momentum, it's a done deal!
+---
+
+
 ## This _[talk](https://www.benjaminhardy.com/webinar-broadcast-room17870347?webinar_ext=FZ2ouTv3)_ has moved me
 
 ### I am in.
