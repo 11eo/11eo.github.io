@@ -1,11 +1,9 @@
 ---
-excerpt_separator: <!--more-->
 layout: post
 title: Climate change address: Dry or doomed?
 ---
-<!--more-->
 
-##Inspired by this TED talk @
+Inspired by this TED talk @
 https://www.ted.com/talks/per_espen_stoknes_how_to_transform_apocalypse_fatigue_into_action_on_global_warming
 
 It's true that climate change always seems distance, and people often discuss the topic using dry statistics that most people don't care or understand, or using scared-the-shit-out-of-everyone scenarios. Also, the 5 defenses that each person have regarding CC (climate change) are legit: distance, doom, dissonance, denial, identity.
