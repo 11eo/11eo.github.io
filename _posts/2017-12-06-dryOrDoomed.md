@@ -1,7 +1,10 @@
+
 ---
+excerpt_separator: <!--more-->
 layout: post
 title: Climate change address: Dry or doomed?
 ---
+<!--more-->
 
 Inspired by this TED talk @
 https://www.ted.com/talks/per_espen_stoknes_how_to_transform_apocalypse_fatigue_into_action_on_global_warming
