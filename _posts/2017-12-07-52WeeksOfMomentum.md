@@ -1,0 +1,31 @@
+## This _[talk](https://www.benjaminhardy.com/webinar-broadcast-room17870347?webinar_ext=FZ2ouTv3)_ has moved me
+
+### I am in.
+
+
+- I am into this *52 Weeks of Momentum* program created by Benjamin Hardy @ benjaminhardy.com
+
+- I am up for the challenge
+
+- I am ready to:
+  - commit
+  - mark the point of no return
+  - invest in myself
+  - psychologically Upgrade
+
+----
+Invest $997 in self-improvement, and get a 100% return rate in 52weeks if I can meet my goals, in addition to receiving the _momentum package_: 52mug, 52shirt, 52book! My gut tells me to go away, but my ears just cannot resist this offer.
+
+You've made an amazing move, Ben! Let's break it down:
+
+```
+Out of 100 people who enrolled, I guess only 10 would remain in the program by week 52th, and there might be less than 2 people who would ask for their money back after graduating from this program and benefit so much from it.
+```
+
+I admire you such a daring and creative move!
+
+-----
+
+##### Note to my future self: 
+
+>After spending 1.5 hour looking at the source code of the seminar [the intro seminar](https://www.benjaminhardy.com/webinar-broadcast-room17870347?webinar_ext=FZ2ouTv3)/[talk](https://vimeo.com/246225846) and tried really hard to control the video but in the end, I could only be able to Pause (changing html code), and Fast forward/backward (using arows right/left on keyboard). I was desperate to find out if those attendes who posted comments, like Fiona Jesus Salatiel etc., were programmed. They seemed to be artifial to me. I guess I would need to ask Ben.
