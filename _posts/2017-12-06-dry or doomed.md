@@ -1,5 +1,5 @@
-excerpt_separator: <!--more-->
 ---
+excerpt_separator: <!--more-->
 layout: post
 title: Climate change address: Dry or doomed?
 ---
